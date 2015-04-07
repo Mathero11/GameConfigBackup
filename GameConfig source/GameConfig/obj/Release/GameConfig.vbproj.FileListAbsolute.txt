@@ -1,0 +1,10 @@
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Release\GameConfig.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Release\GameConfig.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Release\GameConfig.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.vbproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Release\GameConfig.pdb

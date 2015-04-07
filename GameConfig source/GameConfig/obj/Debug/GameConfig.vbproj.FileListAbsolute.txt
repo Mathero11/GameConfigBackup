@@ -1,0 +1,20 @@
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\bin\Debug\GameConfig.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\bin\Debug\GameConfig.pdb
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\bin\Debug\GameConfig.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.Form1.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.Resources.resources
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.vbproj.GenerateResource.Cache
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.exe
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.xml
+C:\Users\Mike\AppData\Local\Temporary Projects\GameConfig\obj\Debug\GameConfig.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Debug\GameConfig.exe
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Debug\GameConfig.pdb
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\bin\Debug\GameConfig.xml
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.Form1.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2008\Projects\GameConfig\GameConfig\obj\Debug\GameConfig.vbproj.GenerateResource.Cache
